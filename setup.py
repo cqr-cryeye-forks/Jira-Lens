@@ -7,7 +7,7 @@ this_directory = path.abspath(path.dirname(__file__))
 with io.open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     desc = f.read()
 
-version = Path("Jira-Lens/_version.py").read_text(encoding="utf-8")
+version = Path("Jira-Lens_v1/_version.py").read_text(encoding="utf-8")
 about = {}
 exec(version, about)
 
