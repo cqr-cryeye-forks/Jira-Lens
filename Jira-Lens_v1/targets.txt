@@ -1,0 +1,10 @@
+https://jira.atlassian.com
+https://jira.spring.io
+https://issues.apache.org/jira
+https://issues.jboss.org
+https://issues.jenkins-ci.org
+https://jira.reactos.org
+https://jira.codehaus.org
+https://jira.mongodb.org
+https://jira.opendaylight.org
+https://jira.percona.com
