@@ -128,6 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-Jira-Lens_v1/output/*.json
-Jira-Lens_v2/output/*.json
+output/*.json
 .idea
